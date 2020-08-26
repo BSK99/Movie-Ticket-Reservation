@@ -1,0 +1,9 @@
+01 	jumanji 	20jan 		300		9.00a.m 
+ 
+36 	BatmanVsSuperman 12jan 		350 		12.00noon
+37 	antman 		 15feb 		350 		3.00p.m
+38 	deadpool 	 15mar 		350		6.00p.m
+3636 	Thor 		 3nov 		300 		9.00p.m
+9600	Avenger 	 15apr 		350 		11.30p.m
+
+
